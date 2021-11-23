@@ -44,6 +44,10 @@ EnvSensor env;
 
 int main()
 {
+    // UNCOMMENT THIS TO TEST YOUR BOARD
+    // UOP_MSB_TEST board;
+    // board.test();
+
     //LCD Backlight ON
     backLight = 1;
 
